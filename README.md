@@ -68,8 +68,8 @@ La hipótesis de partida es que *a mayor congestión, menor productividad econó
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/<tu-repositorio>.git
-   cd <tu-repositorio>
+   git clone https://github.com/sophiacalderondlr-dotcom/Mobility-project.git
+   cd Mobility-project
    ```
 2. Instala las dependencias:
    ```bash
