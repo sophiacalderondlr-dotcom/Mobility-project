@@ -90,4 +90,4 @@ La hipótesis de partida es que *a mayor congestión, menor productividad econó
 
 ## 👤 Autor
 
-**Sophia Elizabeth Calderon** · [GitHub](https://github.com/<tu-usuario>) · [LinkedIn](www.linkedin.com/in/<www.linkedin.com/in/sophia-elizabet-calderon-de-los-rios>)
+**Sophia Elizabeth Calderon** · [GitHub](https://github.com/<tu-usuario>) · [LinkedIn](www.linkedin.com</in/sophia-elizabet-calderon-de-los-rios>)
